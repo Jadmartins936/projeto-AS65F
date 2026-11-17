@@ -28,7 +28,7 @@ Descritor de textura diferente dos apresentados em aula (HOG, LBP e histograma d
 **Ambiente e bibliotecas:** Google Colab, Python, OpenCV, NumPy, Matplotlib, scikit-image, scikit-learn e tqdm.
 
 ## Links
-- **Repositório com o código (sem o dataset) e o vídeo de apresentação:** [Repositório Github](https://github.com/Jadmartins936/projeto-AS65F)
+- **Repositório:** [Repositório Github](https://github.com/Jadmartins936/projeto-AS65F)
 - **Vídeo de apresentação:** [Vídeo](https://drive.google.com/file/d/1vAaJWcMaGvu_r2L1funFoh_k74bWHPnr/view?usp=sharing)
 - **Dataset utilizado (Coffee Bean Dataset, 224x224):** https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224
 
