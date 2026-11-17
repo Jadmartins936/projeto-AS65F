@@ -3,7 +3,7 @@
 **Disciplina:** Processamento de Imagens – UTFPR
 **Projeto Final – 2026/2**
 
-## Equipe
+## Autor
 - Jad Martins de Lima
 
 ## Descrição da abordagem
